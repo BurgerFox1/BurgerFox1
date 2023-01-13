@@ -14,6 +14,7 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>node.js</li>
+  <li>English</li>
 </nav>
 
 <h3 align="left">Tools</h3>
