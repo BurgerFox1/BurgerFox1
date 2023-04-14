@@ -4,7 +4,7 @@
 
 <h3 align="left">Description:</h3>
 
-<p>kusa</p>
+<p>I mostly do video editing and CGI stuff</p>
 
 <h3 align="left">Languages</h3>
 <nav>
