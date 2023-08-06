@@ -4,6 +4,8 @@
 
 <h3 align="left">Description:</h3>
 
+<h4> Hi this portfolio is still empty </h4>
+
 <p>I mostly do video editing and CGI stuff</p>
 
 <h3 align="left">Languages</h3>
