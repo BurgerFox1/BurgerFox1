@@ -65,9 +65,6 @@
 
 </div>
 
-<div align = "right">
-    <img src="">
-</div>
 
 
 
