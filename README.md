@@ -4,7 +4,8 @@
 
 
 
-<h4>&nbsp;&nbsp;&nbsp; Hi this portfolio is still empty [I'm creating a website for myself soon] </h4>
+<h4>&nbsp;&nbsp;&nbsp; Hi this portfolio is still empty </h4>
+<h4>&nbsp;&nbsp;&nbsp; https://burgerfox1.com </h4>
 
 <img src="https://github.com/BurgerFox1/BurgerFox1/blob/main/lmbao.png?raw=true" width=35% align=right>
 
